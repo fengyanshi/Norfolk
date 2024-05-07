@@ -34,7 +34,7 @@ PROP BSBT
 NUMERIC ACCUR .02 .02 .02 98 STAT 15 0.0                                                            
 $                                                                                                                                                                                                                                                                                                                                                                                     
 TEST 0,0                                                                                            
-COMPUTE NONSTAT 20110824.010000 3600 SEC 20110831.010000 
+COMPUTE NONSTAT 20110827.080000 3600 SEC 20110828.090000 
 $ COMPUTE STAT 20111114.000000 60 SEC 20081117.000000                                               
 STOP        
 ! ***************WAVE CURRENT INTERATION************************

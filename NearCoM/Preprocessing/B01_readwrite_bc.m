@@ -6,20 +6,32 @@ fdir=[froot fmodel 'NearCoM_waves_' fcase '/'];
 
 fpoints={'waves_IR_36.9742_-76.2271.csv'};
 
+nstart=80;
+nend=105;
+
 figure(1)
 hold on
 for k=1:length(fpoints)
 fname=[fdir fpoints{k}];
 Tbl = readtable(fname);
-Time=Tbl.Date;
-Hs = Tbl.Hs;
-Tp= Tbl.tp;
-Dm=Tbl.mwd;  
-Ds=Tbl.Dspr; 
-plot(Hs)
-text(170,Hs(169),fpoints{k})
+Time1=Tbl.Date;
+Hs1 = Tbl.Hs;
+Tp1= Tbl.tp;
+Dm1=Tbl.mwd;  
+Ds1=Tbl.Dspr; 
+plot(Time1,Hs1)
+text(170,Hs1(169),fpoints{k})
+
+Time=Time1(nstart:nend);
+Hs = Hs1(nstart:nend) ;
+Tp= Tp1(nstart:nend);
+Dm=Dm1(nstart:nend);  
+Ds=Ds1(nstart:nend); 
+
+plot(Time,Hs,'r','LineWidth',2)
+
 end
-axis([0 180 0 7])
+%axis([0 180 0 7])
 
 eval(['mkdir ' 'plots/']);
 print('-djpeg100', ['plots/' fcase '_1point.jpg'])
