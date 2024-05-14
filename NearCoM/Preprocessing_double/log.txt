@@ -1,0 +1,12 @@
+coupling data
+boundary info: num of points, start point
+EAST
+	304		1
+WEST
+	-1		1
+SOUTH
+	-1		1
+NORTH
+	-1		1
+Total time steps: 26
+Time interval is AROUND: 3600

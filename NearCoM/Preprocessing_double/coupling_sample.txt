@@ -1,0 +1,14 @@
+coupling data
+ boundary info: num of points, start point
+ EAST
+         192           1
+ WEST
+         192           1
+ SOUTH
+         288           1
+ NORTH
+         288           1
+ TIME SERIES
+   0.0000000    
+ EAST SIDE
+   -0.655370E-01   -0.655370E-01   -0.655370E-01   -0.655370E-01   -0.655370E-01

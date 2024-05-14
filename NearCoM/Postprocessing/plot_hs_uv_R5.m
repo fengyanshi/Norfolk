@@ -3,7 +3,7 @@ clear all
 close all
 
 froot='/Volumes/BigSur_2022/Norfolk_nearcom/Results/';
-fcase='IR_Base_ERA5';
+fcase='IR_SLR_1.3M';
 
 fdir=[froot fcase '/'];
 fdir_input='../Grid/';
