@@ -1,0 +1,366 @@
+Start Prologue v2.5.3 Mon May 20 13:53:33 UTC 2024 
+r2i7n11: MemFree:        179460456 kB
+r2i7n10: MemFree:        173241800 kB
+r2i7n12: MemFree:        170859020 kB
+r2i7n14: MemFree:        161662484 kB
+r2i7n13: MemFree:        177963132 kB
+r2i7n16: MemFree:        175824876 kB
+r2i7n15: MemFree:        182480840 kB
+r2i7n19: MemFree:        175621096 kB
+r2i7n17: MemFree:        182348020 kB
+r2i7n18: MemFree:        175400328 kB
+r2i7n20: MemFree:        184136020 kB
+r2i7n21: MemFree:        177908172 kB
+r2i7n22: MemFree:        183354080 kB
+r2i7n24: MemFree:        183202452 kB
+r2i7n23: MemFree:        171775348 kB
+r2i7n29: MemFree:        182128492 kB
+r2i7n25: MemFree:        172363640 kB
+r2i7n26: MemFree:        175084072 kB
+r2i7n28: MemFree:        174421448 kB
+r2i7n30: MemFree:        182956260 kB
+r2i7n27: MemFree:        175670352 kB
+r2i7n5: MemFree:        184397488 kB
+r2i7n4: MemFree:        177974692 kB
+r2i7n6: MemFree:        170162524 kB
+r2i7n7: MemFree:        172604276 kB
+r2i7n8: MemFree:        167417700 kB
+r2i7n9: MemFree:        177747600 kB
+r3i0n0: MemFree:        183507988 kB
+r3i0n11: MemFree:        183968504 kB
+r3i0n1: MemFree:        184348892 kB
+r3i0n10: MemFree:        184431120 kB
+r3i0n19: MemFree:        185211888 kB
+r3i0n16: MemFree:        184315624 kB
+r3i0n18: MemFree:        185193648 kB
+r3i0n17: MemFree:        184154416 kB
+r3i0n20: MemFree:        184961916 kB
+r3i0n2: MemFree:        184192132 kB
+r3i0n23: MemFree:        184701536 kB
+r3i0n21: MemFree:        184727904 kB
+r3i0n22: MemFree:        184584468 kB
+r3i0n24: MemFree:        184858556 kB
+r3i0n3: MemFree:        184257344 kB
+r3i0n5: MemFree:        183554240 kB
+r3i0n4: MemFree:        184191972 kB
+r3i0n6: MemFree:        184415260 kB
+r3i0n8: MemFree:        184397928 kB
+r3i0n7: MemFree:        184142108 kB
+r3i0n9: MemFree:        184375216 kB
+End Prologue v2.5.3 Mon May 20 13:53:37 UTC 2024 
+r2i7n4: attached as primary execution host.
+rm: invalid option -- 'p'
+Try 'rm --help' for more information.
+ BATHY_CORRECTION DOES NOT EXIST. USE DEFAULT VALUE
+ PLOT_START_TIME DOES NOT EXIST. USE DEFAULT VALUE
+         PLOT_START_TIME Default:  0.0 s
+ StationOutputBuffer DOES NOT EXIST. USE DEFAULT VALUE
+                             StationOutputBuffer not specified, use default:1000
+ INI_UVZ DOES NOT EXIST. USE DEFAULT VALUE
+ Time_ramp DOES NOT EXIST. USE DEFAULT VALUE
+                 Time_ramp Default:  0.0
+ Nfreq DOES NOT EXIST. USE DEFAULT VALUE
+ Ntheta DOES NOT EXIST. USE DEFAULT VALUE
+ Ywidth_WK DOES NOT EXIST. USE DEFAULT VALUE
+                         Ywidth_WK Default:  LARGE
+ ETA_LIMITER DOES NOT EXIST. USE DEFAULT VALUE
+ EqualEnergy DOES NOT EXIST. USE DEFAULT VALUE
+                   DIRECT_SPONGE IS USED
+                 FRICTION_SPONGE IS USED
+ WaveMakerCd DOES NOT EXIST. USE DEFAULT VALUE
+ OBSTACLE_FILE DOES NOT EXIST. USE DEFAULT VALUE
+ BREAKWATER_FILE DOES NOT EXIST. USE DEFAULT VALUE
+ BreakWaterAbsorbCoef DOES NOT EXIST. USE DEFAULT VALUE
+     BreakWaterAbsorbCoef Default:  10.0
+ DISPERSION DOES NOT EXIST. USE DEFAULT VALUE
+         DISPERSION Default:  DISPERSION
+ Gamma1 DOES NOT EXIST. USE DEFAULT VALUE
+        Gamma1 Default:  1.0: DISPERSION
+ Gamma2 DOES NOT EXIST. USE DEFAULT VALUE
+              Gamma2 Default:  1.0: Full nonlinear
+ Beta_ref DOES NOT EXIST. USE DEFAULT VALUE
+               Beta_ref Default:  -0.531
+ Gamma3 DOES NOT EXIST. USE DEFAULT VALUE
+                      Gamma3 Default:  1.0: NOT fully linear
+ SWE_ETA_DEP DOES NOT EXIST. USE DEFAULT VALUE
+               SWE_ETA_DEP Default:  0.8
+ FRICTION_MATRIX DOES NOT EXIST. USE DEFAULT VALUE
+             Friction_Matrix Default:  constant Cd
+ Time_Scheme DOES NOT EXIST. USE DEFAULT VALUE
+       Time_Scheme Default:  Runge_Kutta
+ CONSTRUCTION DOES NOT EXIST. USE DEFAULT VALUE
+ HIGH_ORDER DOES NOT EXIST. USE DEFAULT VALUE
+  HIGH_ORDER                     NOT DEFINED, USE FOURTH-ORDER
+ DT_fixed DOES NOT EXIST. USE DEFAULT VALUE
+ MinDepthFrc DOES NOT EXIST. USE DEFAULT VALUE
+             MinDepthFrc Default:  0.1 m
+ OUT_Time DOES NOT EXIST. USE DEFAULT VALUE
+                               Dont record wave arrival time
+ ROLLER_EFFECT DOES NOT EXIST. USE DEFAULT VALUE
+                      ROLLER_EFFECT:  NO
+ SHOW_BREAKING DOES NOT EXIST. USE DEFAULT VALUE
+            SHOW_BREAKING Default:  TRUE
+ WAVEMAKER_Cbrk DOES NOT EXIST. USE DEFAULT VALUE
+            WAVEMAKER_Cbrk Default:  1.0
+ WAVEMAKER_VIS DOES NOT EXIST. USE DEFAULT VALUE
+           WAVEMAKER_VIS Default:  FALSE
+ C_smg DOES NOT EXIST. USE DEFAULT VALUE
+                     C_smg Default:  0.0
+ nu_bkg DOES NOT EXIST. USE DEFAULT VALUE
+                    nu_bkg Default:  0.0
+ ROLLER DOES NOT EXIST. USE DEFAULT VALUE
+ UNDERTOW DOES NOT EXIST. USE DEFAULT VALUE
+ OUT_NU DOES NOT EXIST. USE DEFAULT VALUE
+ TIDAL_BC DOES NOT EXIST. USE DEFAULT VALUE
+                                            TIDAL_BC not defined, Default: False
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.0000E+00  0.0000E+00
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.0000E+00  0.3681E+10  0.3550E+01  0.0000E+00  0.0000E+00  0.0000E+00
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.0000E+00  0.9905E+00  0.0000E+00  0.0000E+00
+   PRINTING FILE NO.     0  TIME/TOTAL:        0.000 /    3600.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1001E+02  0.1042E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+  0.2087E+04  0.3682E+10  0.3550E+01 -0.1769E+01  0.1153E+01  0.8987E+00
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1264E+01  0.9632E+01  0.1312E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2000E+02  0.1034E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.5290E+03  0.3682E+10  0.3550E+01 -0.1381E+01  0.1200E+01  0.1033E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1348E+01  0.9700E+01  0.1389E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.3001E+02  0.1042E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.5794E+04  0.3682E+10  0.3550E+01 -0.1636E+01  0.1137E+01  0.9996E+00
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1282E+01  0.9720E+01  0.1319E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.4000E+02  0.1028E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.5247E+04  0.3682E+10  0.3550E+01 -0.1612E+01  0.1304E+01  0.1025E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1424E+01  0.9740E+01  0.1462E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.5000E+02  0.1040E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.1028E+05  0.3682E+10  0.3550E+01 -0.1465E+01  0.1192E+01  0.9161E+00
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1238E+01  0.9740E+01  0.1271E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.6001E+02  0.1021E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.9097E+04  0.3683E+10  0.3550E+01 -0.1834E+01  0.1267E+01  0.1106E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1391E+01  0.9752E+01  0.1426E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.7000E+02  0.1023E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.9642E+04  0.3683E+10  0.3550E+01 -0.1556E+01  0.1361E+01  0.9764E+00
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1406E+01  0.9795E+01  0.1436E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.8001E+02  0.1004E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.1272E+05  0.3683E+10  0.3550E+01 -0.1401E+01  0.1314E+01  0.1188E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1518E+01  0.9934E+01  0.1528E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.9000E+02  0.1004E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.1372E+05  0.3683E+10  0.3550E+01 -0.1636E+01  0.1384E+01  0.1205E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1531E+01  0.9934E+01  0.1541E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1000E+03  0.9889E-02
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.1561E+05  0.3683E+10  0.3550E+01 -0.1474E+01  0.1415E+01  0.1372E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1633E+01  0.9962E+01  0.1639E+00  0.0000E+00
+   PRINTING FILE NO.     1  TIME/TOTAL:      100.003 /    3600.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1100E+03  0.1008E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.1446E+05  0.3683E+10  0.3550E+01 -0.1508E+01  0.1356E+01  0.1354E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1493E+01  0.9962E+01  0.1498E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1200E+03  0.1030E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.1737E+05  0.3683E+10  0.3550E+01 -0.1499E+01  0.1268E+01  0.1156E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1496E+01  0.9962E+01  0.1502E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1300E+03  0.1032E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.2044E+05  0.3683E+10  0.3550E+01 -0.1464E+01  0.1820E+01  0.1189E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.1823E+01  0.9962E+01  0.1830E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1400E+03  0.1047E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.2004E+05  0.3684E+10  0.3550E+01 -0.1788E+01  0.2449E+01  0.1648E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.2548E+01  0.9962E+01  0.2558E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1500E+03  0.1015E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.2139E+05  0.3684E+10  0.3550E+01 -0.1550E+01  0.2821E+01  0.1952E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.2873E+01  0.9962E+01  0.2884E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1600E+03  0.1047E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.2380E+05  0.3684E+10  0.3550E+01 -0.1503E+01  0.2412E+01  0.2060E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.2684E+01  0.9962E+01  0.2695E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1700E+03  0.1007E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.2379E+05  0.3684E+10  0.3550E+01 -0.1392E+01  0.2451E+01  0.1857E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.2451E+01  0.9962E+01  0.2461E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1800E+03  0.9903E-02
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.2360E+05  0.3684E+10  0.3550E+01 -0.1534E+01  0.2941E+01  0.2268E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3088E+01  0.9962E+01  0.3100E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.1900E+03  0.9999E-02
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.2759E+05  0.3684E+10  0.3550E+01 -0.1496E+01  0.2960E+01  0.2323E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.2999E+01  0.9962E+01  0.3011E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2000E+03  0.9857E-02
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.2908E+05  0.3684E+10  0.3550E+01 -0.1373E+01  0.3070E+01  0.2549E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3184E+01  0.9962E+01  0.3196E+00  0.0000E+00
+   PRINTING FILE NO.     2  TIME/TOTAL:      200.004 /    3600.000
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2100E+03  0.9877E-02
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.2701E+05  0.3684E+10  0.3550E+01 -0.1412E+01  0.3267E+01  0.2719E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3272E+01  0.9973E+01  0.3281E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2200E+03  0.1007E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.3094E+05  0.3684E+10  0.3550E+01 -0.1482E+01  0.3192E+01  0.2566E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3532E+01  0.9973E+01  0.3541E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2300E+03  0.9863E-02
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.2900E+05  0.3685E+10  0.3550E+01 -0.1683E+01  0.2964E+01  0.2390E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3106E+01  0.9973E+01  0.3115E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2400E+03  0.9913E-02
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.3344E+05  0.3684E+10  0.3550E+01 -0.1379E+01  0.3276E+01  0.2660E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3513E+01  0.9973E+01  0.3522E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2500E+03  0.1001E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.3504E+05  0.3684E+10  0.3550E+01 -0.1434E+01  0.3339E+01  0.2575E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3354E+01  0.9973E+01  0.3363E+00  0.0000E+00
+ ----------------- STATISTICS ----------------
+  TIME        DT
+  0.2600E+03  0.1006E-01
+  MassVolume  Energy      MaxEta      MinEta      Max U       Max V 
+ -0.3424E+05  0.3684E+10  0.3550E+01 -0.1462E+01  0.3452E+01  0.2430E+01
+  MaxTotalU   PhaseS      Froude      WetDryMass
+  0.3453E+01  0.9973E+01  0.3463E+00  0.0000E+00
+MPT: Received signal 15
+Start Epilogue v2.5.3 Mon May 20 14:28:17 UTC 2024 
+    exec_vnode = (r2i7n4:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n5:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n6:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n7:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n8:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n9:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n10:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n11:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n12:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n13:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n14:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n15:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n16:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n17:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n18:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n19:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n20:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n21:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n22:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n23:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n24:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n25:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n26:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n27:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n28:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n29:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r2i7n30:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n0:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n1:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n2:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n3:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n4:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n5:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n6:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n7:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n8:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n9:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n10:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n11:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n16:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n17:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n18:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n19:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n20:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n21:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n22:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n23:ncpus=48:ngpus=0:bigmem=0:compute=1)+(r3i0n24:ncpus=48:ngpus=0:bigmem=0:compute=1)
+Memory usage reported in GB
+                    % of     user     user     user    total    total
+Node               limit      max    limit  current  current     phys
+r2i7n4              7.51    13.13   175.00     8.63     7.06   187.31
+r2i7n5              2.93     5.12   175.00     1.09     5.97   187.31
+r2i7n6              6.76    11.82   175.00     6.72     7.23   187.31
+r2i7n7              6.89    12.06   175.00     7.86     7.11   187.31
+r2i7n8              9.49    16.61   175.00    12.01     7.75   187.31
+r2i7n9              5.04     8.82   175.00     4.40     6.54   187.31
+r2i7n10             5.84    10.22   175.00     5.56     6.85   187.31
+r2i7n11             5.24     9.17   175.00     4.69     6.46   187.31
+r2i7n12             5.92    10.36   175.00     6.06     7.15   187.31
+r2i7n13             4.48     7.84   175.00     3.45     6.53   187.31
+r2i7n14            12.92    22.61   175.00    14.57     7.84   187.31
+r2i7n15             3.80     6.66   175.00     2.43     6.13   187.31
+r2i7n16             6.19    10.83   175.00     6.38     6.84   187.31
+r2i7n17             3.63     6.36   175.00     2.11     6.18   187.31
+r2i7n18             6.69    11.71   175.00     7.16     6.89   187.31
+r2i7n19             5.05     8.84   175.00     4.34     6.76   187.31
+r2i7n20             2.97     5.19   175.00     1.17     5.94   187.31
+r2i7n21             4.02     7.04   175.00     3.01     6.63   187.31
+r2i7n22             3.14     5.50   175.00     1.47     6.05   187.31
+r2i7n23             4.90     8.57   175.00     4.41     7.05   187.31
+r2i7n24             3.43     6.00   175.00     1.40     6.02   187.31
+r2i7n25             4.93     8.64   175.00     3.99     6.90   187.31
+r2i7n26             5.46     9.55   175.00     5.38     6.85   187.31
+r2i7n27             5.37     9.40   175.00     5.39     6.87   187.31
+r2i7n28             5.12     8.95   175.00     4.58     6.92   187.31
+r2i7n29             3.97     6.95   175.00     2.94     6.18   187.31
+r2i7n30             3.49     6.11   175.00     2.07     6.09   187.31
+r3i0n0              3.26     5.71   175.00     1.67     6.06   187.31
+r3i0n1              2.94     5.14   175.00     1.13     5.96   187.31
+r3i0n2              3.02     5.28   175.00     1.24     5.98   187.31
+r3i0n3              2.99     5.24   175.00     1.21     5.95   187.31
+r3i0n4              3.03     5.31   175.00     1.29     5.97   187.31
+r3i0n5              3.31     5.79   175.00     1.58     6.05   187.31
+r3i0n6              2.91     5.10   175.00     1.07     5.95   187.31
+r3i0n7              3.01     5.27   175.00     1.25     5.97   187.31
+r3i0n8              2.93     5.14   175.00     1.09     5.96   187.31
+r3i0n9              2.95     5.15   175.00     1.14     5.94   187.31
+r3i0n10             2.92     5.10   175.00     1.07     5.95   187.31
+r3i0n11             3.04     5.33   175.00     1.26     5.98   187.31
+r3i0n16             2.97     5.20   175.00     1.15     5.98   187.31
+r3i0n17             3.00     5.25   175.00     1.21     5.95   187.31
+r3i0n18             2.55     4.47   175.00     0.44     5.86   187.31
+r3i0n19             2.53     4.43   175.00     0.41     5.89   187.31
+r3i0n20             2.65     4.63   175.00     0.64     5.89   187.31
+r3i0n21             2.65     4.64   175.00     0.66     5.89   187.31
+r3i0n22             2.60     4.54   175.00     0.51     5.89   187.31
+r3i0n23             2.67     4.67   175.00     0.68     5.93   187.31
+r3i0n24             2.63     4.60   175.00     0.61     5.89   187.31
+Memory summary:
+		min    4.43 GB
+		max   22.61 GB
+		ave    7.50 GB
+End Epilogue v2.5.3 Mon May 20 14:28:20 UTC 2024 

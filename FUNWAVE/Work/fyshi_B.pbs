@@ -1,0 +1,40 @@
+#!/bin/bash
+## Required PBS Directives --------------------------------------
+#PBS -A ONRDC47732599
+#PBS -q standard
+#PBS -l select=32:ncpus=48:mpiprocs=48
+#PBS -l walltime=5:00:00
+#PBS -l application=obeach
+#PBS -j oe
+#PBS -M fyshi@udel.edu
+#PBS -m be
+#PBS -N obeach
+#PBS -S /bin/bash
+
+## Execution Block ----------------------------------------------
+# Environment Setup
+FUNWAVE=${HOME}/Norfolk/FUNWAVE/
+EXEC=${FUNWAVE}/bin/funwave_wave_34
+
+INPUT=${PBS_O_WORKDIR}
+BATHY=${PBS_O_WORKDIR}
+
+# cd to your scratch directory in /work
+RUNDIR=${WORKDIR}/Norfolk_FUN01
+mkdir -p ${RUNDIR}
+mkdir -p ${RUNDIR}/output
+rm -p ${RUNDIR}/output/*
+
+cd ${RUNDIR}
+
+
+## Launching -----------------------------------------------------
+# copy desired/needed files and run the job
+cp ${INPUT}/input.txt ${RUNDIR}/input.txt
+cp ${INPUT}/dep_1p5m_6400x3000.txt ${RUNDIR}/depth.txt
+# cp ${INPUT}/wave_data_2d.txt ${RUNDIR}/wave_data_2d.txt
+#cp ${INPUT}/gauge_15m.txt ${RUNDIR}/gauge.txt
+# The following two lines provide an example of setting up and running 
+# a CRAY MPICH parallel code  built with the INTEL compiler.
+# module swap PrgEnv-cray PrgEnv-intel
+mpiexec_mpt -n 1536 ${EXEC}
