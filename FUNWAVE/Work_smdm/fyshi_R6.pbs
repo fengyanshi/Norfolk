@@ -1,0 +1,34 @@
+#!/bin/bash
+## Required Directives ------------------------------------
+#PBS -l select=48:ncpus=48:mpiprocs=48
+#PBS -l walltime=8:00:00
+#PBS -q standard
+#PBS -A ONRDC47732599
+#
+## Optional Directives ------------------------------------
+#PBS -N R6
+#PBS -j oe
+#PBS -M fyshi@udel.edu
+#PBS -m be
+#
+## Execution Block ----------------------------------------
+# Environment Setup
+# cd to your scratch directory in /p/work1
+cd ${WORKDIR}
+#
+# create a job-specific subdirectory based on JOBID and cd to it
+##JOBID=`echo ${PBS_JOBID} | cut -d '.' -f 1`
+JOBID=Norfolk_R06
+mkdir -p ${JOBID}
+cd ${JOBID}
+#
+# stage input data $HOME
+cp ${HOME}/Norfolk/FUNWAVE/Work_smdm/input_R6.txt ${WORKDIR}/${JOBID}/input.txt
+cp ${HOME}/Norfolk/FUNWAVE/Data/dep_075m_7744x5888_filter.txt ${WORKDIR}/${JOBID}/depth.txt
+#
+# copy the executable from $HOME
+cp ${HOME}/Norfolk/FUNWAVE/Work_smdm/funwave_wave_36  .
+#
+## Launching ----------------------------------------------
+mpirun -n 2304 ./funwave_wave_36
+#
