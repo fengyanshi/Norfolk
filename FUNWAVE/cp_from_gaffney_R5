@@ -1,0 +1,13 @@
+echo next
+/usr/local/ossh/bin/scp fshi@gaffney.navydsrc.hpc.mil:/p/work1/fshi/Norfolk_R05/output/eta_* /Volumes/BigSur_2022/Norfolk_FUNWAVE/Results/R5_smdm/.
+echo next
+/usr/local/ossh/bin/scp fshi@gaffney.navydsrc.hpc.mil:/p/work1/fshi/Norfolk_R05/output/mask_* /Volumes/BigSur_2022/Norfolk_FUNWAVE/Results/R5_smdm/.
+echo next
+/usr/local/ossh/bin/scp fshi@gaffney.navydsrc.hpc.mil:/p/work1/fshi/Norfolk_R05/output/etamean_* /Volumes/BigSur_2022/Norfolk_FUNWAVE/Results/R5_smdm/.
+echo next
+/usr/local/ossh/bin/scp fshi@gaffney.navydsrc.hpc.mil:/p/work1/fshi/Norfolk_R05/output/umean_* /Volumes/BigSur_2022/Norfolk_FUNWAVE/Results/R5_smdm/.
+echo next
+/usr/local/ossh/bin/scp fshi@gaffney.navydsrc.hpc.mil:/p/work1/fshi/Norfolk_R05/output/vmean_* /Volumes/BigSur_2022/Norfolk_FUNWAVE/Results/R5_smdm/.
+echo next
+/usr/local/ossh/bin/scp fshi@gaffney.navydsrc.hpc.mil:/p/work1/fshi/Norfolk_R05/output/Hsig_* /Volumes/BigSur_2022/Norfolk_FUNWAVE/Results/R5_smdm/.
+echo ok

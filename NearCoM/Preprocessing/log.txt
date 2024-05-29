@@ -8,5 +8,5 @@ SOUTH
 	-1		1
 NORTH
 	-1		1
-Total time steps: 14
-Time interval is AROUND: 7200
+Total time steps: 26
+Time interval is AROUND: 3600

@@ -53,6 +53,10 @@ plot(Time1,Hs1)
 %text(170,Hs1(169),fpoints{k})
 hold on
 plot(Time,Hs,'r','LineWidth',2)
+xlim([datetime("2011-08-26") datetime("2011-08-30")])
+grid
+%xlabel('time')
+ylabel('Hs (m)')
 
 % write
 for k=1:length(Time)
@@ -96,6 +100,10 @@ subplot(212)
 plot(time,eta)
 hold on
 plot(time2,eta2,'r','LineWidth',2)
+xlim([datetime("2011-08-26") datetime("2011-08-30")])
+grid
+xlabel('time')
+ylabel('Elevation (m)')
 
 print('-djpeg100', [foutput 'wave_flow.jpg'])
 

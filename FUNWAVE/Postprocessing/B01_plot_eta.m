@@ -3,14 +3,14 @@ clear all
 close all
 
 froot='/Volumes/BigSur_2022/Norfolk_FUNWAVE/Results/';
-fcase='R1_smdm';
+fcase='R2_smdm';
 
 fdir=[froot fcase '/'];
 fdir_input='../Grid/';
 fdir_data=['../Data/' fcase '/'];
 
-files=[28];
-dt=10.0;
+files=[34];
+dt=100.0;
 
 Mindep=0.1;
 uv_deplimit = 0.2;
