@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.22)  29 MAY 2024 17:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.22)  1 JUN 2024 23:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -403,67 +403,7 @@ Package color Info: Driver file: pdftex.def on input line 147.
 )
 (./draft.aux
 
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
-
-
-LaTeX Warning: Label `boundary' multiply defined.
+LaTeX Warning: Label `funwave_6_cases_setup' multiply defined.
 
 )
 \openout1 = `draft.aux'.
@@ -520,153 +460,28 @@ LaTeX Info: Redefining \nameref on input line 47.
 \@outlinefile=\write4
 \openout4 = `draft.out'.
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 70.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 74.
 
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 70.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 74.
 
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<./figures/nearcom_wave_flow.jpg, id=8, 1171.37625pt x 878.28125pt>
-File: ./figures/nearcom_wave_flow.jpg Graphic file (type jpg)
-<use ./figures/nearcom_wave_flow.jpg>
-Package pdftex.def Info: ./figures/nearcom_wave_flow.jpg  used on input line 79
-.
-(pdftex.def)             Requested size: 390.0pt x 292.4202pt.
-<./figures/nearcom_hs_ERA5_55.jpg, id=9, 1505.625pt x 903.375pt>
-File: ./figures/nearcom_hs_ERA5_55.jpg Graphic file (type jpg)
-<use ./figures/nearcom_hs_ERA5_55.jpg>
-Package pdftex.def Info: ./figures/nearcom_hs_ERA5_55.jpg  used on input line 8
-7.
-(pdftex.def)             Requested size: 390.0pt x 234.00354pt.
-<./figures/nearcom_ele_ERA5_55.jpg, id=10, 1505.625pt x 903.375pt>
-File: ./figures/nearcom_ele_ERA5_55.jpg Graphic file (type jpg)
-<use ./figures/nearcom_ele_ERA5_55.jpg>
-Package pdftex.def Info: ./figures/nearcom_ele_ERA5_55.jpg  used on input line 
-95.
-(pdftex.def)             Requested size: 390.0pt x 234.00354pt.
-<./figures/nearcom_hs_ERA5_91.jpg, id=11, 1505.625pt x 903.375pt>
-File: ./figures/nearcom_hs_ERA5_91.jpg Graphic file (type jpg)
-<use ./figures/nearcom_hs_ERA5_91.jpg>
-Package pdftex.def Info: ./figures/nearcom_hs_ERA5_91.jpg  used on input line 1
-03.
-(pdftex.def)             Requested size: 390.0pt x 234.00354pt.
-<./figures/nearcom_ele_ERA5_91.jpg, id=12, 1505.625pt x 903.375pt>
-File: ./figures/nearcom_ele_ERA5_91.jpg Graphic file (type jpg)
-<use ./figures/nearcom_ele_ERA5_91.jpg>
-Package pdftex.def Info: ./figures/nearcom_ele_ERA5_91.jpg  used on input line 
-111.
-(pdftex.def)             Requested size: 390.0pt x 234.00354pt.
-<./figures/nearcom_hs_ERA5_133.jpg, id=13, 1505.625pt x 903.375pt>
-File: ./figures/nearcom_hs_ERA5_133.jpg Graphic file (type jpg)
-<use ./figures/nearcom_hs_ERA5_133.jpg>
-Package pdftex.def Info: ./figures/nearcom_hs_ERA5_133.jpg  used on input line 
-119.
-(pdftex.def)             Requested size: 390.0pt x 234.00354pt.
-<./figures/nearcom_ele_ERA5_133.jpg, id=14, 1505.625pt x 903.375pt>
-File: ./figures/nearcom_ele_ERA5_133.jpg Graphic file (type jpg)
-<use ./figures/nearcom_ele_ERA5_133.jpg>
-Package pdftex.def Info: ./figures/nearcom_ele_ERA5_133.jpg  used on input line
- 127.
-(pdftex.def)             Requested size: 390.0pt x 234.00354pt.
-<./figures/nearcom_wo_wave.pdf, id=15, 518.83766pt x 656.96602pt>
-File: ./figures/nearcom_wo_wave.pdf Graphic file (type pdf)
-<use ./figures/nearcom_wo_wave.pdf>
-Package pdftex.def Info: ./figures/nearcom_wo_wave.pdf  used on input line 137.
-
-(pdftex.def)             Requested size: 390.0pt x 493.84605pt.
-<./figures/nearcom_hs.jpg, id=16, 1505.625pt x 1505.625pt>
-File: ./figures/nearcom_hs.jpg Graphic file (type jpg)
-<use ./figures/nearcom_hs.jpg>
-Package pdftex.def Info: ./figures/nearcom_hs.jpg  used on input line 146.
-(pdftex.def)             Requested size: 390.0pt x 390.0059pt.
-<./figures/nearcom_eta_uv.jpg, id=17, 1505.625pt x 1505.625pt>
-File: ./figures/nearcom_eta_uv.jpg Graphic file (type jpg)
-<use ./figures/nearcom_eta_uv.jpg>
-Package pdftex.def Info: ./figures/nearcom_eta_uv.jpg  used on input line 154.
-(pdftex.def)             Requested size: 390.0pt x 390.0059pt.
-<./figures/nearcom_flood.jpg, id=18, 1505.625pt x 1505.625pt>
-File: ./figures/nearcom_flood.jpg Graphic file (type jpg)
-<use ./figures/nearcom_flood.jpg>
-Package pdftex.def Info: ./figures/nearcom_flood.jpg  used on input line 162.
-(pdftex.def)             Requested size: 390.0pt x 390.0059pt.
-<./figures/nearcom_bars.jpg, id=19, 1204.5pt x 752.8125pt>
-File: ./figures/nearcom_bars.jpg Graphic file (type jpg)
-<use ./figures/nearcom_bars.jpg>
-Package pdftex.def Info: ./figures/nearcom_bars.jpg  used on input line 170.
-(pdftex.def)             Requested size: 390.0pt x 243.7537pt.
-<./figures/funwave_ERA5_eta.jpg, id=20, 1505.625pt x 1204.5pt>
-File: ./figures/funwave_ERA5_eta.jpg Graphic file (type jpg)
-<use ./figures/funwave_ERA5_eta.jpg>
-Package pdftex.def Info: ./figures/funwave_ERA5_eta.jpg  used on input line 180
-.
-(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
-<./figures/funwave_SLR _eta.jpg, id=21, 1505.625pt x 1204.5pt>
-File: ./figures/funwave_SLR _eta.jpg Graphic file (type jpg)
-<use ./figures/funwave_SLR _eta.jpg>
-Package pdftex.def Info: ./figures/funwave_SLR _eta.jpg  used on input line 188
-.
-(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
-<./figures/funwave_ERA5_hs.jpg, id=22, 1505.625pt x 1204.5pt>
-File: ./figures/funwave_ERA5_hs.jpg Graphic file (type jpg)
-<use ./figures/funwave_ERA5_hs.jpg>
-Package pdftex.def Info: ./figures/funwave_ERA5_hs.jpg  used on input line 196.
-
-(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
-<./figures/funwave_SLR_hs.jpg, id=23, 1505.625pt x 1204.5pt>
-File: ./figures/funwave_SLR_hs.jpg Graphic file (type jpg)
-<use ./figures/funwave_SLR_hs.jpg>
-Package pdftex.def Info: ./figures/funwave_SLR_hs.jpg  used on input line 204.
-(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
-<./figures/funwave_ERA5_setup.jpg, id=24, 1505.625pt x 1204.5pt>
-File: ./figures/funwave_ERA5_setup.jpg Graphic file (type jpg)
-<use ./figures/funwave_ERA5_setup.jpg>
-Package pdftex.def Info: ./figures/funwave_ERA5_setup.jpg  used on input line 2
-12.
-(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
-<./figures/funwave_SLR_setup.jpg, id=25, 1505.625pt x 1204.5pt>
-File: ./figures/funwave_SLR_setup.jpg Graphic file (type jpg)
-<use ./figures/funwave_SLR_setup.jpg>
-Package pdftex.def Info: ./figures/funwave_SLR_setup.jpg  used on input line 22
-0.
-(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
-<./figures/funwave_ERA5_vort.jpg, id=26, 1505.625pt x 1204.5pt>
-File: ./figures/funwave_ERA5_vort.jpg Graphic file (type jpg)
-<use ./figures/funwave_ERA5_vort.jpg>
-Package pdftex.def Info: ./figures/funwave_ERA5_vort.jpg  used on input line 22
-8.
-(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
-<./figures/funwave_SLR_vort.jpg, id=27, 1505.625pt x 1204.5pt>
-File: ./figures/funwave_SLR_vort.jpg Graphic file (type jpg)
-<use ./figures/funwave_SLR_vort.jpg>
-Package pdftex.def Info: ./figures/funwave_SLR_vort.jpg  used on input line 236
-.
-(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
-<./figures/funwave_hs_6_cases.jpg, id=28, 1505.625pt x 1505.625pt>
-File: ./figures/funwave_hs_6_cases.jpg Graphic file (type jpg)
-<use ./figures/funwave_hs_6_cases.jpg>
-Package pdftex.def Info: ./figures/funwave_hs_6_cases.jpg  used on input line 2
-44.
-(pdftex.def)             Requested size: 390.0pt x 390.0059pt.
-<./figures/funwave_setup_6_cases.jpg, id=29, 1505.625pt x 1204.5pt>
-File: ./figures/funwave_setup_6_cases.jpg Graphic file (type jpg)
-<use ./figures/funwave_setup_6_cases.jpg>
-Package pdftex.def Info: ./figures/funwave_setup_6_cases.jpg  used on input lin
-e 252.
-(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
-<./figures/funwave_vort_6_cases.jpg, id=30, 1505.625pt x 1204.5pt>
-File: ./figures/funwave_vort_6_cases.jpg Graphic file (type jpg)
-<use ./figures/funwave_vort_6_cases.jpg>
-Package pdftex.def Info: ./figures/funwave_vort_6_cases.jpg  used on input line
- 260.
-(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
-
-No file draft.bbl.
+<./figures/nearcom_chart.png, id=4, 950.55125pt x 491.8375pt>
+File: ./figures/nearcom_chart.png Graphic file (type png)
+<use ./figures/nearcom_chart.png>
+Package pdftex.def Info: ./figures/nearcom_chart.png  used on input line 80.
+(pdftex.def)             Requested size: 390.0pt x 201.79726pt.
+<./figures/nearcom_grid.png, id=6, 877.77937pt x 787.94376pt>
+File: ./figures/nearcom_grid.png Graphic file (type png)
+<use ./figures/nearcom_grid.png>
+Package pdftex.def Info: ./figures/nearcom_grid.png  used on input line 90.
+(pdftex.def)             Requested size: 390.0pt x 350.08682pt.
 
 Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 [] 
@@ -676,44 +491,179 @@ Overfull \hbox (2.61108pt too wide) has occurred while \output is active
 
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[2 <./figures/nearcom_wave_flow.jpg>] [3 <./figures/nearcom_hs_ERA5_55.jpg> <./
-figures/nearcom_ele_ERA5_55.jpg>] [4 <./figures/nearcom_hs_ERA5_91.jpg> <./figu
-res/nearcom_ele_ERA5_91.jpg>] [5 <./figures/nearcom_hs_ERA5_133.jpg> <./figures
-/nearcom_ele_ERA5_133.jpg>] [6 <./figures/nearcom_wo_wave.pdf>] [7 <./figures/n
-earcom_hs.jpg>] [8 <./figures/nearcom_eta_uv.jpg>] [9 <./figures/nearcom_flood.
-jpg>] [10 <./figures/nearcom_bars.jpg>] [11 <./figures/funwave_ERA5_eta.jpg>]
-[12 <./figures/funwave_SLR _eta.jpg>] [13 <./figures/funwave_ERA5_hs.jpg>]
-[14 <./figures/funwave_SLR_hs.jpg>] [15 <./figures/funwave_ERA5_setup.jpg>]
-[16 <./figures/funwave_SLR_setup.jpg>] [17 <./figures/funwave_ERA5_vort.jpg>]
-[18 <./figures/funwave_SLR_vort.jpg>] [19 <./figures/funwave_hs_6_cases.jpg>]
-[20 <./figures/funwave_setup_6_cases.jpg>] [21 <./figures/funwave_vort_6_cases.
-jpg>] (./draft.aux)
+[2 <./figures/nearcom_chart.png>] [3 <./figures/nearcom_grid.png>]
+<./figures/nearcom_wave_flow.jpg, id=32, 1171.37625pt x 878.28125pt>
+File: ./figures/nearcom_wave_flow.jpg Graphic file (type jpg)
+<use ./figures/nearcom_wave_flow.jpg>
+Package pdftex.def Info: ./figures/nearcom_wave_flow.jpg  used on input line 11
+2.
+(pdftex.def)             Requested size: 390.0pt x 292.4202pt.
+<./figures/nearcom_hs_ERA5_55.jpg, id=33, 1505.625pt x 903.375pt>
+File: ./figures/nearcom_hs_ERA5_55.jpg Graphic file (type jpg)
+<use ./figures/nearcom_hs_ERA5_55.jpg>
+Package pdftex.def Info: ./figures/nearcom_hs_ERA5_55.jpg  used on input line 1
+20.
+(pdftex.def)             Requested size: 390.0pt x 234.00354pt.
+<./figures/nearcom_ele_ERA5_55.jpg, id=34, 1505.625pt x 903.375pt>
+File: ./figures/nearcom_ele_ERA5_55.jpg Graphic file (type jpg)
+<use ./figures/nearcom_ele_ERA5_55.jpg>
+Package pdftex.def Info: ./figures/nearcom_ele_ERA5_55.jpg  used on input line 
+128.
+(pdftex.def)             Requested size: 390.0pt x 234.00354pt.
+<./figures/nearcom_hs_ERA5_91.jpg, id=35, 1505.625pt x 903.375pt>
+File: ./figures/nearcom_hs_ERA5_91.jpg Graphic file (type jpg)
+<use ./figures/nearcom_hs_ERA5_91.jpg>
+Package pdftex.def Info: ./figures/nearcom_hs_ERA5_91.jpg  used on input line 1
+36.
+(pdftex.def)             Requested size: 390.0pt x 234.00354pt.
+<./figures/nearcom_ele_ERA5_91.jpg, id=36, 1505.625pt x 903.375pt>
+File: ./figures/nearcom_ele_ERA5_91.jpg Graphic file (type jpg)
+<use ./figures/nearcom_ele_ERA5_91.jpg>
+Package pdftex.def Info: ./figures/nearcom_ele_ERA5_91.jpg  used on input line 
+144.
+(pdftex.def)             Requested size: 390.0pt x 234.00354pt.
+<./figures/nearcom_hs_ERA5_133.jpg, id=37, 1505.625pt x 903.375pt>
+File: ./figures/nearcom_hs_ERA5_133.jpg Graphic file (type jpg)
+<use ./figures/nearcom_hs_ERA5_133.jpg>
+Package pdftex.def Info: ./figures/nearcom_hs_ERA5_133.jpg  used on input line 
+152.
+(pdftex.def)             Requested size: 390.0pt x 234.00354pt.
+<./figures/nearcom_ele_ERA5_133.jpg, id=38, 1505.625pt x 903.375pt>
+File: ./figures/nearcom_ele_ERA5_133.jpg Graphic file (type jpg)
+<use ./figures/nearcom_ele_ERA5_133.jpg>
+Package pdftex.def Info: ./figures/nearcom_ele_ERA5_133.jpg  used on input line
+ 160.
+(pdftex.def)             Requested size: 390.0pt x 234.00354pt.
+<./figures/nearcom_wo_wave.pdf, id=39, 520.996pt x 659.51785pt>
+File: ./figures/nearcom_wo_wave.pdf Graphic file (type pdf)
+<use ./figures/nearcom_wo_wave.pdf>
+Package pdftex.def Info: ./figures/nearcom_wo_wave.pdf  used on input line 170.
+
+(pdftex.def)             Requested size: 390.0pt x 493.71135pt.
+<./figures/nearcom_hs.jpg, id=40, 1505.625pt x 1505.625pt>
+File: ./figures/nearcom_hs.jpg Graphic file (type jpg)
+<use ./figures/nearcom_hs.jpg>
+Package pdftex.def Info: ./figures/nearcom_hs.jpg  used on input line 179.
+(pdftex.def)             Requested size: 390.0pt x 390.0059pt.
+<./figures/nearcom_eta_uv.jpg, id=41, 1505.625pt x 1505.625pt>
+File: ./figures/nearcom_eta_uv.jpg Graphic file (type jpg)
+<use ./figures/nearcom_eta_uv.jpg>
+Package pdftex.def Info: ./figures/nearcom_eta_uv.jpg  used on input line 187.
+(pdftex.def)             Requested size: 390.0pt x 390.0059pt.
+<./figures/nearcom_flood.jpg, id=42, 1505.625pt x 1505.625pt>
+File: ./figures/nearcom_flood.jpg Graphic file (type jpg)
+<use ./figures/nearcom_flood.jpg>
+Package pdftex.def Info: ./figures/nearcom_flood.jpg  used on input line 195.
+(pdftex.def)             Requested size: 390.0pt x 390.0059pt.
+<./figures/nearcom_bars.jpg, id=43, 1204.5pt x 752.8125pt>
+File: ./figures/nearcom_bars.jpg Graphic file (type jpg)
+<use ./figures/nearcom_bars.jpg>
+Package pdftex.def Info: ./figures/nearcom_bars.jpg  used on input line 203.
+(pdftex.def)             Requested size: 390.0pt x 243.7537pt.
+<./figures/funwave_ERA5_eta.jpg, id=44, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_ERA5_eta.jpg Graphic file (type jpg)
+<use ./figures/funwave_ERA5_eta.jpg>
+Package pdftex.def Info: ./figures/funwave_ERA5_eta.jpg  used on input line 213
+.
+(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
+<./figures/funwave_SLR _eta.jpg, id=45, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_SLR _eta.jpg Graphic file (type jpg)
+<use ./figures/funwave_SLR _eta.jpg>
+Package pdftex.def Info: ./figures/funwave_SLR _eta.jpg  used on input line 221
+.
+(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
+<./figures/funwave_ERA5_hs.jpg, id=46, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_ERA5_hs.jpg Graphic file (type jpg)
+<use ./figures/funwave_ERA5_hs.jpg>
+Package pdftex.def Info: ./figures/funwave_ERA5_hs.jpg  used on input line 229.
+
+(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
+<./figures/funwave_SLR_hs.jpg, id=47, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_SLR_hs.jpg Graphic file (type jpg)
+<use ./figures/funwave_SLR_hs.jpg>
+Package pdftex.def Info: ./figures/funwave_SLR_hs.jpg  used on input line 237.
+(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
+<./figures/funwave_ERA5_setup.jpg, id=48, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_ERA5_setup.jpg Graphic file (type jpg)
+<use ./figures/funwave_ERA5_setup.jpg>
+Package pdftex.def Info: ./figures/funwave_ERA5_setup.jpg  used on input line 2
+45.
+(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
+<./figures/funwave_SLR_setup.jpg, id=49, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_SLR_setup.jpg Graphic file (type jpg)
+<use ./figures/funwave_SLR_setup.jpg>
+Package pdftex.def Info: ./figures/funwave_SLR_setup.jpg  used on input line 25
+3.
+(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
+<./figures/funwave_ERA5_vort.jpg, id=50, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_ERA5_vort.jpg Graphic file (type jpg)
+<use ./figures/funwave_ERA5_vort.jpg>
+Package pdftex.def Info: ./figures/funwave_ERA5_vort.jpg  used on input line 26
+1.
+(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
+<./figures/funwave_SLR_vort.jpg, id=51, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_SLR_vort.jpg Graphic file (type jpg)
+<use ./figures/funwave_SLR_vort.jpg>
+Package pdftex.def Info: ./figures/funwave_SLR_vort.jpg  used on input line 269
+.
+(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
+<./figures/funwave_hs_6_cases.jpg, id=52, 1505.625pt x 1505.625pt>
+File: ./figures/funwave_hs_6_cases.jpg Graphic file (type jpg)
+<use ./figures/funwave_hs_6_cases.jpg>
+Package pdftex.def Info: ./figures/funwave_hs_6_cases.jpg  used on input line 2
+77.
+(pdftex.def)             Requested size: 390.0pt x 390.0059pt.
+<./figures/funwave_setup_6_cases.jpg, id=53, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_setup_6_cases.jpg Graphic file (type jpg)
+<use ./figures/funwave_setup_6_cases.jpg>
+Package pdftex.def Info: ./figures/funwave_setup_6_cases.jpg  used on input lin
+e 285.
+(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
+<./figures/funwave_vort_6_cases.jpg, id=54, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_vort_6_cases.jpg Graphic file (type jpg)
+<use ./figures/funwave_vort_6_cases.jpg>
+Package pdftex.def Info: ./figures/funwave_vort_6_cases.jpg  used on input line
+ 293.
+(pdftex.def)             Requested size: 390.0pt x 312.00473pt.
+
+No file draft.bbl.
+[4] [5 <./figures/nearcom_wave_flow.jpg>] [6 <./figures/nearcom_hs_ERA5_55.jpg>
+] [7 <./figures/nearcom_ele_ERA5_55.jpg>] [8 <./figures/nearcom_hs_ERA5_91.jpg>
+] [9 <./figures/nearcom_ele_ERA5_91.jpg>] [10 <./figures/nearcom_hs_ERA5_133.jp
+g>] [11 <./figures/nearcom_ele_ERA5_133.jpg>] [12 <./figures/nearcom_wo_wave.pd
+f>] [13 <./figures/nearcom_hs.jpg>] [14 <./figures/nearcom_eta_uv.jpg>]
+[15 <./figures/nearcom_flood.jpg>] [16 <./figures/nearcom_bars.jpg>] [17 <./fig
+ures/funwave_ERA5_eta.jpg>] [18 <./figures/funwave_SLR _eta.jpg>] [19 <./figure
+s/funwave_ERA5_hs.jpg>] [20 <./figures/funwave_SLR_hs.jpg>] [21 <./figures/funw
+ave_ERA5_setup.jpg>] [22 <./figures/funwave_SLR_setup.jpg>] [23 <./figures/funw
+ave_ERA5_vort.jpg>] [24 <./figures/funwave_SLR_vort.jpg>] [25 <./figures/funwav
+e_hs_6_cases.jpg>] [26 <./figures/funwave_setup_6_cases.jpg>] [27 <./figures/fu
+nwave_vort_6_cases.jpg>] (./draft.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `draft.out' has not changed.
-(rerunfilecheck)             Checksum: 9814C2D956916ADB9290ECA4E25C967A;103.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10890 strings out of 478994
- 158284 string characters out of 5858183
- 458304 words of memory out of 5000000
- 28130 multiletter control sequences out of 15000+600000
- 412141 words of font info for 61 fonts, out of 8000000 for 9000
+ 10927 strings out of 478994
+ 159010 string characters out of 5858183
+ 465670 words of memory out of 5000000
+ 28155 multiletter control sequences out of 15000+600000
+ 411492 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 83i,6n,88p,212b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 83i,6n,88p,1180b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
 sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
-/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
+/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/lo
 cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loc
-al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/loca
-l/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
-Output written on draft.pdf (21 pages, 18751199 bytes).
+al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on draft.pdf (27 pages, 21903834 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 138 compressed objects within 2 object streams
- 47 named destinations out of 1000 (max. 500000)
- 124 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 230 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
+ 58 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

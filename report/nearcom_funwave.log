@@ -1,0 +1,382 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.10.22)  11 JUN 2024 19:40
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**nearcom_funwave.tex
+(./nearcom_funwave.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+\epsfxsize=\dimen141
+\epsfysize=\dimen142
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
+9.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count187
+\l__pdf_internal_box=\box47
+)
+(./nearcom_funwave.aux)
+\openout1 = `nearcom_funwave.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count188
+\scratchdimen=\dimen143
+\scratchbox=\box48
+\nofMPsegments=\count189
+\nofMParguments=\count190
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count191
+\MPscratchDim=\dimen144
+\MPnumerator=\count192
+\makeMPintoPDFobject=\count193
+\everyMPtoPDFconversion=\toks17
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+<./figures/nearcom_chart.png, id=1, 950.55125pt x 491.8375pt>
+File: ./figures/nearcom_chart.png Graphic file (type png)
+<use ./figures/nearcom_chart.png>
+Package pdftex.def Info: ./figures/nearcom_chart.png  used on input line 37.
+(pdftex.def)             Requested size: 469.75499pt x 243.0663pt.
+<./figures/nearcom_grid.png, id=3, 877.77937pt x 787.94376pt>
+File: ./figures/nearcom_grid.png Graphic file (type png)
+<use ./figures/nearcom_grid.png>
+Package pdftex.def Info: ./figures/nearcom_grid.png  used on input line 47.
+(pdftex.def)             Requested size: 469.75499pt x 421.684pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 57.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 57.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 57.
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figur
+es/nearcom_chart.png>] [2 <./figures/nearcom_grid.png>]
+<./figures/funwave_grid_sm.jpg, id=17, 1505.625pt x 752.8125pt>
+File: ./figures/funwave_grid_sm.jpg Graphic file (type jpg)
+<use ./figures/funwave_grid_sm.jpg>
+Package pdftex.def Info: ./figures/funwave_grid_sm.jpg  used on input line 73.
+(pdftex.def)             Requested size: 469.75499pt x 234.87425pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3] [4 <./figures/funwave_grid_sm.jpg>] [5]
+<./figures/nearcom_wave_flow.jpg, id=30, 1171.37625pt x 878.28125pt>
+File: ./figures/nearcom_wave_flow.jpg Graphic file (type jpg)
+<use ./figures/nearcom_wave_flow.jpg>
+Package pdftex.def Info: ./figures/nearcom_wave_flow.jpg  used on input line 17
+3.
+(pdftex.def)             Requested size: 469.75499pt x 352.21758pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6]
+<./figures/nearcom_hs_ERA5_55.jpg, id=34, 1505.625pt x 903.375pt>
+File: ./figures/nearcom_hs_ERA5_55.jpg Graphic file (type jpg)
+<use ./figures/nearcom_hs_ERA5_55.jpg>
+Package pdftex.def Info: ./figures/nearcom_hs_ERA5_55.jpg  used on input line 1
+91.
+(pdftex.def)             Requested size: 469.75499pt x 281.8491pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/nearcom_ele_ERA5_55.jpg, id=35, 1505.625pt x 903.375pt>
+File: ./figures/nearcom_ele_ERA5_55.jpg Graphic file (type jpg)
+<use ./figures/nearcom_ele_ERA5_55.jpg>
+Package pdftex.def Info: ./figures/nearcom_ele_ERA5_55.jpg  used on input line 
+199.
+(pdftex.def)             Requested size: 469.75499pt x 281.8491pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/nearcom_hs_ERA5_91.jpg, id=36, 1505.625pt x 903.375pt>
+File: ./figures/nearcom_hs_ERA5_91.jpg Graphic file (type jpg)
+<use ./figures/nearcom_hs_ERA5_91.jpg>
+Package pdftex.def Info: ./figures/nearcom_hs_ERA5_91.jpg  used on input line 2
+07.
+(pdftex.def)             Requested size: 469.75499pt x 281.8491pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/nearcom_ele_ERA5_91.jpg, id=37, 1505.625pt x 903.375pt>
+File: ./figures/nearcom_ele_ERA5_91.jpg Graphic file (type jpg)
+<use ./figures/nearcom_ele_ERA5_91.jpg>
+Package pdftex.def Info: ./figures/nearcom_ele_ERA5_91.jpg  used on input line 
+215.
+(pdftex.def)             Requested size: 469.75499pt x 281.8491pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/nearcom_hs_ERA5_133.jpg, id=38, 1505.625pt x 903.375pt>
+File: ./figures/nearcom_hs_ERA5_133.jpg Graphic file (type jpg)
+<use ./figures/nearcom_hs_ERA5_133.jpg>
+Package pdftex.def Info: ./figures/nearcom_hs_ERA5_133.jpg  used on input line 
+223.
+(pdftex.def)             Requested size: 469.75499pt x 281.8491pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/nearcom_ele_ERA5_133.jpg, id=39, 1505.625pt x 903.375pt>
+File: ./figures/nearcom_ele_ERA5_133.jpg Graphic file (type jpg)
+<use ./figures/nearcom_ele_ERA5_133.jpg>
+Package pdftex.def Info: ./figures/nearcom_ele_ERA5_133.jpg  used on input line
+ 231.
+(pdftex.def)             Requested size: 469.75499pt x 281.8491pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./figures/nearcom_wave_flow.jpg>]
+
+LaTeX Warning: Text page 8 contains only floats.
+
+[8 <./figures/nearcom_hs_ERA5_55.jpg> <./figures/nearcom_ele_ERA5_55.jpg>]
+
+LaTeX Warning: Text page 9 contains only floats.
+
+[9 <./figures/nearcom_hs_ERA5_91.jpg> <./figures/nearcom_ele_ERA5_91.jpg>]
+
+LaTeX Warning: Text page 10 contains only floats.
+
+[10 <./figures/nearcom_hs_ERA5_133.jpg> <./figures/nearcom_ele_ERA5_133.jpg>]
+<./figures/nearcom_wo_wave.pdf, id=53, 520.996pt x 659.51785pt>
+File: ./figures/nearcom_wo_wave.pdf Graphic file (type pdf)
+<use ./figures/nearcom_wo_wave.pdf>
+Package pdftex.def Info: ./figures/nearcom_wo_wave.pdf  used on input line 246.
+
+(pdftex.def)             Requested size: 469.75499pt x 594.67763pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/nearcom_hs.jpg, id=54, 1505.625pt x 1505.625pt>
+File: ./figures/nearcom_hs.jpg Graphic file (type jpg)
+<use ./figures/nearcom_hs.jpg>
+Package pdftex.def Info: ./figures/nearcom_hs.jpg  used on input line 262.
+(pdftex.def)             Requested size: 469.75499pt x 469.74852pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/nearcom_eta_uv.jpg, id=55, 1505.625pt x 1505.625pt>
+File: ./figures/nearcom_eta_uv.jpg Graphic file (type jpg)
+<use ./figures/nearcom_eta_uv.jpg>
+Package pdftex.def Info: ./figures/nearcom_eta_uv.jpg  used on input line 270.
+(pdftex.def)             Requested size: 469.75499pt x 469.74852pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/nearcom_flood.jpg, id=56, 1505.625pt x 1505.625pt>
+File: ./figures/nearcom_flood.jpg Graphic file (type jpg)
+<use ./figures/nearcom_flood.jpg>
+Package pdftex.def Info: ./figures/nearcom_flood.jpg  used on input line 278.
+(pdftex.def)             Requested size: 469.75499pt x 469.74852pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/nearcom_bars.jpg, id=57, 1204.5pt x 752.8125pt>
+File: ./figures/nearcom_bars.jpg Graphic file (type jpg)
+<use ./figures/nearcom_bars.jpg>
+Package pdftex.def Info: ./figures/nearcom_bars.jpg  used on input line 286.
+(pdftex.def)             Requested size: 469.75499pt x 293.59569pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (122.35394pt too wide) in paragraph at lines 303--314
+ [][] 
+ []
+
+<./figures/funwave_ERA5_eta.jpg, id=58, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_ERA5_eta.jpg Graphic file (type jpg)
+<use ./figures/funwave_ERA5_eta.jpg>
+Package pdftex.def Info: ./figures/funwave_ERA5_eta.jpg  used on input line 319
+.
+(pdftex.def)             Requested size: 469.75499pt x 375.79881pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/funwave_SLR _eta.jpg, id=59, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_SLR _eta.jpg Graphic file (type jpg)
+<use ./figures/funwave_SLR _eta.jpg>
+Package pdftex.def Info: ./figures/funwave_SLR _eta.jpg  used on input line 329
+.
+(pdftex.def)             Requested size: 469.75499pt x 375.79881pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/funwave_ERA5_hs.jpg, id=60, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_ERA5_hs.jpg Graphic file (type jpg)
+<use ./figures/funwave_ERA5_hs.jpg>
+Package pdftex.def Info: ./figures/funwave_ERA5_hs.jpg  used on input line 337.
+
+(pdftex.def)             Requested size: 469.75499pt x 375.79881pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/funwave_SLR_hs.jpg, id=61, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_SLR_hs.jpg Graphic file (type jpg)
+<use ./figures/funwave_SLR_hs.jpg>
+Package pdftex.def Info: ./figures/funwave_SLR_hs.jpg  used on input line 354.
+(pdftex.def)             Requested size: 469.75499pt x 375.79881pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/funwave_ERA5_setup.jpg, id=62, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_ERA5_setup.jpg Graphic file (type jpg)
+<use ./figures/funwave_ERA5_setup.jpg>
+Package pdftex.def Info: ./figures/funwave_ERA5_setup.jpg  used on input line 3
+64.
+(pdftex.def)             Requested size: 469.75499pt x 375.79881pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/funwave_SLR_setup.jpg, id=63, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_SLR_setup.jpg Graphic file (type jpg)
+<use ./figures/funwave_SLR_setup.jpg>
+Package pdftex.def Info: ./figures/funwave_SLR_setup.jpg  used on input line 37
+2.
+(pdftex.def)             Requested size: 469.75499pt x 375.79881pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/funwave_ERA5_vort.jpg, id=64, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_ERA5_vort.jpg Graphic file (type jpg)
+<use ./figures/funwave_ERA5_vort.jpg>
+Package pdftex.def Info: ./figures/funwave_ERA5_vort.jpg  used on input line 38
+2.
+(pdftex.def)             Requested size: 469.75499pt x 375.79881pt.
+[11]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./figures/funwave_SLR_vort.jpg, id=68, 1505.625pt x 1204.5pt>
+File: ./figures/funwave_SLR_vort.jpg Graphic file (type jpg)
+<use ./figures/funwave_SLR_vort.jpg>
+Package pdftex.def Info: ./figures/funwave_SLR_vort.jpg  used on input line 390
+.
+(pdftex.def)             Requested size: 469.75499pt x 375.79881pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./figures/nearcom_wo_wave.pdf>]
+<./figures/funwave_hs_6_cases.jpg, id=81, 1505.625pt x 1505.625pt>
+File: ./figures/funwave_hs_6_cases.jpg Graphic file (type jpg)
+<use ./figures/funwave_hs_6_cases.jpg>
+Package pdftex.def Info: ./figures/funwave_hs_6_cases.jpg  used on input line 4
+02.
+(pdftex.def)             Requested size: 469.75499pt x 469.74852pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <./figures/nearcom_hs.jpg>] [14 <./figures/nearcom_eta_uv.jpg>] [15 <./figu
+res/nearcom_flood.jpg>] [16 <./figures/nearcom_bars.jpg>] [17 <./figures/funwav
+e_ERA5_eta.jpg>] [18 <./figures/funwave_SLR _eta.jpg>] [19 <./figures/funwave_E
+RA5_hs.jpg>] [20 <./figures/funwave_SLR_hs.jpg>] [21 <./figures/funwave_ERA5_se
+tup.jpg>] [22 <./figures/funwave_SLR_setup.jpg>] [23 <./figures/funwave_ERA5_vo
+rt.jpg>] [24 <./figures/funwave_SLR_vort.jpg>] [25 <./figures/funwave_hs_6_case
+s.jpg>] (./nearcom_funwave.aux) ) 
+Here is how much of TeX's memory you used:
+ 1442 strings out of 478994
+ 24207 string characters out of 5858183
+ 319079 words of memory out of 5000000
+ 18929 multiletter control sequences out of 15000+600000
+ 412020 words of font info for 44 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 83i,8n,88p,1328b,221s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/
+dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
+></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
+Output written on nearcom_funwave.pdf (25 pages, 21169392 bytes).
+PDF statistics:
+ 146 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+
