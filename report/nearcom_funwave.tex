@@ -122,11 +122,11 @@ Because NEARCOM simulations primarily focus on nearshore processes, the flood ar
  \begin{tabular}[t]{c c c  c} \hline
   Scenario & Time of Peak Storm Tide  &  Peak Elevation (m)  &  flooded area (km$^2$ )    \\ \hline
   ERA5      & 27-Aug-2011 23:00  & 1.55   & 1.41  \\
-  HM      & 28-Aug-2011 00:00  & 1.76   & 1.85 \\
-  Acc GN 1m      & 28-Aug-2011 00:00  & 1.75   & 1.85  \\
+  HM      & 28-Aug-2011 00:00  & 1.76   & 1.80 \\
+  Acc GN 1m      & 28-Aug-2011 00:00  & 1.75   & 1.80  \\
   RMW F1.25      & 28-Aug-2011 00:00  & 1.66   & 1.80  \\
-   SLR 1.3m      & 28-Aug-2011 00:00  & 3.02   & 6.98  \\
-    WSF 1.225     & 27-Aug-2011 23:00  & 2.45   & 3.97  \\
+   SLR 1.3m      & 28-Aug-2011 00:00  & 3.02   & 6.92  \\
+    WSF 1.225     & 27-Aug-2011 23:00  & 2.45   & 3.95  \\
      \hline
  \end{tabular}
 % \vskip 0.2cm
@@ -177,6 +177,8 @@ The flooded areas were calculated within the computational domain in the six sce
 \end{figure}
 
 \subsection*{6.5.1 Results of waves, storm tide, and nearshore circulation, Scenario ERA5, for example}
+
+The simulation time period is relatively shorter than that performed in D-Flow FM.  Figure \ref{ERA5_time} shows an example of the simulation period conducted for Scenario ERA5, where the time period is from 27-Aug-2011 6:00 to 28-Aug-2011 6:00. During this period, both the storm tide and wave height reach the maximum in all six scenarios.   
 
 NEARCOM predicts nearshore waves, storm tide, wave setup and wave-induced currents. Wave-current interaction is taken into account through the tight coupling of the wave module and circulation module.  To demonstrate the results from the coupled model, we illustrate the results of waves, surface elevation, and current fields at three snapshots, the beginning stage, peak and receding stage of the storm tide from Scenario ERA5. 
 
@@ -394,8 +396,6 @@ The distribution of wave-induced elevation for Scenario SLR 1.3m exhibits a diff
 \end{figure}
 
 Wave-induced currents for Scenarios ERA5 and SLR 1.3m are shown in Figures \ref{funwave_ERA5_vort} and \ref{funwave_SLR_vort}, respectively. Colors represent vertical vorticity associated with the currents. In Scenario ERA5, the wave-induced current are concentrates in the surfzone alongshore the Willoughby Spit coast, consistent with the NEAECOM results. However, the surfzone predicted by FUNWAVE-TVD appear  narrower, likely due to the higher grid resolution used in the model. For Scenario SLR 1.3m, wave-induced currents are more complex due to the flooding of Willoughby Split. Eddies are generated in the flooded areas. 
-
-
 
 \begin{figure}[h!]
 \centering
