@@ -25,8 +25,13 @@ n=5888;
 
 DimsX={[m n]};
 % dimensions
+% ---------------
+addpath('/Users/fengyanshi/OUTSIDE_Google/things');
 % load x and y 
-load([froot 'lonlat.mat']);
+load([froot 'lon_lat_7744x5888.mat']);
+x=lon_sm;
+y=lat_sm;
+% --------------
 
 x0=x(1,1);
 y0=y(1,1);
