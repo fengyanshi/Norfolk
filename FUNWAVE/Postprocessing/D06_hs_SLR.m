@@ -76,7 +76,7 @@ hs(dep<0.0)=NaN;
 
 
 plot([x0 x0+0.03],[y0 y0+0.04],'.r','MarkerSize',1)
-plot_google_map('maptype','satellite','APIKey','AIzaSyBeu2oRBtLClpcm4i2VDIXltuzMAOY5yX4')
+%plot_google_map ...
 hold on
 
 
